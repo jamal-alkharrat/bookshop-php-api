@@ -14,6 +14,10 @@ PHP API for my Bookshop Webstore
       - [API](#api)
       - [Images](#images)
 
+## About the Project
+
+This is the API for my Bookshop Webstore. It is written in PHP and uses MySQL as the database. It is used to fetch data from the database and send it to the webstore. It also handles the payment process via Stripe.
+
 ## Getting Started
 
 ### Requirements
