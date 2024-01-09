@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Zugriffskontrolle"
+AuthUserFile c:\xampp24\htdocs\conf\.htpassword
+Require valid-user
