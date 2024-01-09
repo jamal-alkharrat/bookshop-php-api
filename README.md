@@ -51,6 +51,8 @@ TLDR:
 
 Congrats! The API is now setup and ready to use.
 
+_***WARNING*** Never expose your stripe secret key or sensitive credentials to the public. Use gitignore to hide them from git. If you are using a public repository, make sure to remove the credentials from the commit history._
+
 #### Images
 
-Check ```docs/imgs.md``` for instructions on how to upload and display images in the database.
+- Check ```docs/imgs.md``` for instructions on how to upload and display images in the database.
